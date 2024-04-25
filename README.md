@@ -54,10 +54,14 @@ export AZURE_SPEECH_KEY=<azure speech key>
 
 ## 运行效果
 
-![alt text](assets/image.png)
+### 菜单
 
 ![alt text](assets/image-1.png)
 
+### 文章列表
+
 ![alt text](assets/image-2.png)
+
+### 文章详情
 
 ![alt text](assets/image-3.png)
