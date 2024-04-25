@@ -1,0 +1,11 @@
+vendor
+pb_data
+__debug_bin*
+.vscode
+./ikit
+
+ikit-api
+
+test_data
+weaviate_data
+.DS_Store
