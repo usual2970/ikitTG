@@ -17,7 +17,7 @@ jobs:
       - name: Push to deploy branch
         run: |
           git checkout -b deploy
-          git rm --cached telegram-bot-api 
+          git rm --cached -r telegram-bot-api 
           git rm .gitmodules
           rm -rf telegram-bot-api/.git
           git add telegram-bot-api
