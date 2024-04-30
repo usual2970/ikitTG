@@ -1,3 +1,0 @@
-[submodule "telegram-bot-api"]
-	path = telegram-bot-api
-	url = git@github.com:OvyFlash/telegram-bot-api.git
