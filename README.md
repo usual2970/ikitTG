@@ -65,3 +65,12 @@ export AZURE_SPEECH_KEY=<azure speech key>
 ### 文章详情
 
 ![alt text](assets/image-3.png)
+
+
+## 许可证
+
+MetaForge 遵循 [MIT License](https://github.com/usual2970/ikitTG/blob/main/LICENSE)，这意味着你可以自由地使用、复制、修改和分发本软件。
+
+---
+
+开始构建你的高效管理后台之旅吧！如有任何问题或建议，欢迎提交 Issue 或 Pull Request。让我们一起让 MetaForge 变得更加出色！
